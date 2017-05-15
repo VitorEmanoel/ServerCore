@@ -1,0 +1,21 @@
+name: ProjectCraft_Core
+version: 0.1
+main: Bukkit.Main
+author: VitorEmanoel
+
+commands:
+  tp:
+  tph:
+  tpa:
+  spy:
+  speed:
+  ping:
+  limpar:
+  curar:
+  gamemode:
+    aliases: [gm]
+  congelar:
+  descongelar:
+  craft:
+  fly:
+  food:

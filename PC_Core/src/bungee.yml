@@ -1,0 +1,13 @@
+name: ProjectCraft_Core
+version: 0.1
+main: Bungee.Main
+author: VitorEmanoel
+
+commands:
+  restart:
+    aliases: [reiniciar]
+  group:
+    aliases: [grupo]
+  sala:
+    aliases: [servidor]
+  server:
